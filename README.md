@@ -5,7 +5,7 @@ _Work by Song Ying and Antoine Ghilissen_
 __Executive Summary__: Analyzing Major League Baseball (MLB) World Series statistics (1946-2016) to formulate in-game strategies for maximal chance of winning a match.
 
 Using the dataset compiled by Retrosheet, we achieved the following:
-1. Performed Data CLeaning & Feature Engineering
+1. Performed Data Cleaning & Feature Engineering
 2. 
 3.
 4.
@@ -31,5 +31,3 @@ __Future Work__:
 
 __Actionable Insights__:
 1. 
-2. 
-3. 
