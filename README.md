@@ -5,12 +5,13 @@ _Work by Song Ying and Antoine Ghilissen_
 __Executive Summary__: Analyzing Major League Baseball (MLB) World Series statistics (1946-2016) to formulate in-game strategies for maximal chance of winning a match.
 
 Using the dataset compiled by Retrosheet, we achieved the following:
-1. Performed Data Cleaning & Feature Engineering
-2. 
-3.
-4.
-5.
-6.
+1. Data Exploration
+2. Performed Data Cleaning & Feature Engineering
+2. Baseline Model via Logistic Regression 
+3. Decision Tree
+4. Random Forest
+5. XGBoost
+6. 
 
 __Data Source__: MLB Game Logs (1871-2016) sourced from Retrosheet. Dataset can be found here: https://data.world/dataquest/mlb-game-logs
 
@@ -27,7 +28,8 @@ __Limitations__:
 2. 
 
 __Future Work__:
-1. 
+1. In-depth analysis of linescore paired with match statistics per innings of the game from other sources to investigate probability of winning the match as the match progresses.
+2. 
 
 __Actionable Insights__:
 1. 
