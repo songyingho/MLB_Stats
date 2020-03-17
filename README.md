@@ -1,4 +1,4 @@
-# Mod_5_Project
+# Analysis of Major League Baseball (MLB) Statistics with Supervised Learning Models
 
 _Work by Song Ying and Antoine Ghilissen_
 
