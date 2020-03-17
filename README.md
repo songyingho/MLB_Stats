@@ -25,11 +25,11 @@ __High Level Overview__: The project started by exploring the data and transform
 Next, we created a logistic regression model as our baseline model, which obtained an ROC-AUC score of __61.5 %__. To improve on our baseline performance, we developed additional models, namely Decision Trees, Random Forest and XGBoost, which performed at __72.2 %__, __74.2 %__ , __66.69 %__ respectively after GridSearchCV optimization. As a result, __Random Forest__ was chosen as our final model. A threshold of __input__ was chosen for our final model to optimize for both Type 1 and Type 2 errors. Finally, we evaluated the performance of the model and derived actionable insights for our stakeholders, as described in detail below.
 
 __Files__:
-[index](./index.ipynb): main Jupyter Notebook
-[Dataset](./MLB-GameLogs-1871_2016.csv): Original Dataset csv
-[data_cleaning](./data_cleaning.ipynb): Data Cleaning Jupyter Notebook
-[df.csv](./df.csv): Cleaned Dataset csv
-[presentation](./presentation.pdf): Presentation Slides
+* [index](./index.ipynb): main Jupyter Notebook
+* [Dataset](./MLB-GameLogs-1871_2016.csv): Original Dataset csv
+* [data_cleaning](./data_cleaning.ipynb): Data Cleaning Jupyter Notebook
+* [df.csv](./df.csv): Cleaned Dataset csv
+* [presentation](./presentation.pdf): Presentation Slides
 
 
 __Limitations__:
