@@ -25,6 +25,8 @@ __High Level Overview__:
 __Files__:
 - <code>index.ipynb</code> : main Jupyter Notebook
 - <code>MLB-GameLogs-1871_2016.csv</code> : Original Dataset csv
+- <code>data_cleaning.ipynb</code> : Data Cleaning Jupyter Notebook
+- <code>df.csv</code> : Cleaned Dataset csv
 
 __Limitations__:
 1. Data samples from 1970-1979 and 1990-1999 were missing and therefore not included in our analysis.
