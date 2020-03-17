@@ -8,8 +8,8 @@ Using the dataset compiled by Retrosheet, we achieved the following:
 1. Data Exploration
 2. Performed Data Cleaning & Feature Engineering
 2. Baseline Model via Logistic Regression (ROC-AUC score: 61.5 %)
-3. Decision Tree (ROC-AUC score: 64 %)
-4. Random Forest (ROC-AUC score: 71.91 %)
+3. Decision Tree (ROC-AUC score: 72.2 %)
+4. Random Forest (ROC-AUC score: 74.2 %)
 5. XGBoost (ROC-AUC score: 66.69 %)
 6. Variable & Model Selection
 7. Threshold Selection (Threshold: )
