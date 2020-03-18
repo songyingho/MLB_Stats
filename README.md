@@ -8,8 +8,8 @@ Using the dataset compiled by Retrosheet, we achieved the following:
 1. Data Exploration
 2. Performed Data Cleaning & Feature Engineering
 2. Baseline Model via Logistic Regression (ROC-AUC score: 61.5 %)
-3. Decision Tree (ROC-AUC score: 64 %)
-4. Random Forest (ROC-AUC score: 71.91 %)
+3. Decision Tree (ROC-AUC score: 72.2 %)
+4. Random Forest (ROC-AUC score: 74.2 %)
 5. XGBoost (ROC-AUC score: 66.69 %)
 6. Variable & Model Selection
 7. Threshold Selection (Threshold: )
@@ -45,4 +45,8 @@ __Future Work__:
 5. Applying our method to winning statistics and also losing statistics in order to compare and emphasise which feature really impacts the game outcome.
 
 __Actionable Insights__:
-1. 
+1. Invest in top pitchers for defensive plays to reduce opponent’s rbi
+2. Employ the most consistent batter to improve rbi
+3. Do not focus on hitting ambitious strikes (doubles, triples, homeruns), it’s more effective to just get the bat on the ball as frequent as possible.
+4. Approaching the end of the inning, batters should focus on taking risk, to reduce number of players left on base so they could complete a run.
+
