@@ -12,7 +12,7 @@ Using the dataset compiled by Retrosheet, we achieved the following:
 4. Random Forest (ROC-AUC score: 74.2 %)
 5. XGBoost (ROC-AUC score: 66.69 %)
 6. Variable & Model Selection
-7. Threshold Selection (Threshold: )
+7. Threshold Selection
 8. Final Evaluation
 9. Actionable Insights
 
